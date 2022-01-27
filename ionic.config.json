@@ -1,0 +1,7 @@
+{
+  "name": "scholarApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
